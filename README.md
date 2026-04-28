@@ -26,24 +26,6 @@ A backend project built using **FastAPI** that implements full **CRUD (Create, R
 
 ---
 
-## 📂 Project Structure
-smart_task_manager/
-├── backend/
-│ ├── app/
-│ │ ├── init.py
-│ │ ├── main.py
-│ │ ├── database.py
-│ │ ├── models.py
-│ │ ├── schemas.py
-│ │ └── routes/
-│ │ ├── init.py
-│ │ └── task_routes.py
-│ └── requirements.txt
-├── README.md
-└── .gitignore
-
----
-
 ## ▶️ How to Run
 
 ```bash
